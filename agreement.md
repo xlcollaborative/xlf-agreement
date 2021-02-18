@@ -60,13 +60,29 @@ Cross licenses under these terms do not give contributors themselves any special
 
 ### Relicensing
 
-Any contributor may relicense the project as a whole by granting a sublicense under new, free-of-charge terms, either to the public or to all recipients of copies of the project, within thirty calendar days of securing [majority approval](#majority).  When [soliciting votes](#soliciting-votes) for relicensing, a contributor must [circulate](#circulating-messages):
+Any contributor may relicense the project as a whole by granting a sublicense under new terms meeting any [license criteria](#license-criteria) in effect at the time within thirty calendar days of securing [majority approval](#majority).  When [soliciting votes](#soliciting-votes) for relicensing, a contributor must [circulate](#circulating-messages):
 
 1.  identification of the contributor proposing to relicense the project
 
 2.  an exact copy of the new license terms
 
 3.  an exact copy of all the terms of any agreement that has, will, or could compensate the contributor for proposing or securing approval of the relicensing
+
+### License Criteria
+
+The first two contributors must agree on any criteria for terms on which the project can be relicensed.  They must publish a dated copy of those criteria, or a dated statement that there are no criteria, together with the terms of this agreement, where potential contributors can find and read them.  No contributor can relicense the project onto new terms that fail to meet the license criteria.  Any contributor may change the license criteria by securing [supermajority approval](#supermajority) in favor of the change.
+
+### Example Criteria
+
+As examples, the first two contributors may agree on criteria such as:
+
+> The new license terms must grant licenses to the public as a whole, or to anyone who receives a copy of the project.
+
+> The new license must be completely free of any license fee, royalty, or other charge.
+
+> The new license must be a new version of {specific license} published by {license steward} or its legal successor.
+
+> The new license must appear on the {list} published by {organization} or its legal successor.
 
 ## Communications
 
@@ -84,7 +100,7 @@ Any contributor who receives a notice under the terms of a relicensing must [cir
 
 ### Addresses
 
-The first two contributors must agree on a global, free or low-cost, high-speed, electronic communication system, such as e-mail, and provide addresses for that system.  Later contributors must provide addresses for the same system.
+The first two contributors must agree on a global, free or low-cost, high-speed, electronic communication system, such as e-mail, and provide addresses for that system.  They must publish dated statement of that choice, together with the terms of this agreement, where potential contributors can find and read them.  Later contributors must provide addresses for the same system.
 
 ### Change of Address
 

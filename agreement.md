@@ -1,8 +1,8 @@
-# Cross License Collaborative Agreement
+# Distributed Foundation Agreement
 
 Development Draft
 
-<https://github.com/xlcollaborative/xlc-agreement>
+<https://TODO.com>
 
 ## Purpose
 

@@ -24,8 +24,6 @@ To apply to become a contributor, a candidate must send the following to an exis
 
 1.  their [address](#addresses) for [communication](#communications) 
 
-2.  their [instructions](#payment-instructions) for [payment](#payments)
-
 3.  a World Wide Web or other Internet address where contributors can review the first contribution they are offering
 
 ### Admission
@@ -40,7 +38,7 @@ For a candidate to become a contributor, an existing contributor must follow eac
 
 4.  receive and [circulate](#circulating-messages) a message from the candidate confirming receipt of, and approving, all sublicenses still in effect
 
-5.  [circulate](#circulating-messages) a current list of all contributor [addresses](#addresses) and [payment instructions](#payment-instructions), including the new contributor's
+5.  [circulate](#circulating-messages) a current list of all contributor [addresses](#addresses), including the new contributor's
 
 ### Resignation
 
@@ -160,49 +158,19 @@ To report a result, the contributor who solicited votes must [circulate](#circul
 
 4.  whether contributors approved the proposal or not
 
-## Payments
-
-### Equal Pay
-
-Each contributor is entitled to receive an equal share of license fees, license royalties, and other license-based payments for the project.  Any sublicense that entitles any contributor to payment must require payment to the contributor who gave the sublicense to start, or to any successor contributor who secures [majority approval](#majority) to take their place.
-
-### Distributing Payments
-
-Any contributor who receives payment under a sublicense must pay other contributors their [equal shares](#equal-pay) of funds received within fourteen calendar days, according to the other contributors' [payment instructions](#payment-instructions), [retrying](#retry) as necessary.
-
-### Payment Processing Fees
-
-If a contributor's [payment instructions](#payment-instructions) require the distributing contributor to pay a fee, the distributing contributor may reduce the amount of the payment by the amount of the fee, so the distributing contributor does not have to pay any processing fees out of pocket.
-
-### Failed Payments
-
-If a contributor does not respond to a payment of their share, the next step depends on the amount of their share.
-
-If the amount is ten percent or less of the payment under the sublicense being distributed, or the payment processing fees would be fifty percent or more of the amount to be paid, then the distributing contributor may keep the amount for themself.
-
-Otherwise, the distributing contributor must try to pay themself and other contributors, but not the contributor that is not responding, equal shares of the amount, according to their [payment instructions](#payment-instructions).  If those payments fail, the distributing contributor does not have to [retry](#retry) them, but can keep the amounts for themself.
-
-### Payment Instructions
-
-Contributors must provide payment instructions for global, low-cost, high-speed, electronic payment systems.
-
-### Change of Payment Instructions
-
-Any contributor may change their [payment instructions](#payment-instructions) by [circulating](#circulating-messages) new [payment instructions](#payment-instructions) from their current [address](#addresses).
-
 ## Retry
 
-When a [communication](#communications) or [payment](#payments) system fails to deliver a message or payment:
+When a [communication](#communications) system fails to deliver a message:
 
 1.  The sending contributor must [circulate](#circulating-messages) word of the failure and any failure message from the system.
 
-2.  The sending contributor must wait forty-eight hours, then try again.  If the receiving contributor [changed](#change-of-address) their [address](#address) or [changed](#change-of-payment-instructions) their [payment instructions](#payment-instructions) since the first try, the sending contributor must use the new [address](#address) or [payment instructions](#payment-instructions).
+2.  The sending contributor must wait forty-eight hours, then try again.  If the receiving contributor [changed](#change-of-address) their [address](#address) since the first try, the sending contributor must use the new [address](#address).
 
 3.  If the second try also fails, the sending contributor must [circulate](#circulating-messages) word of the failure and any failure message from the system.  The receiving contributor is then considered to be not responding.
 
 ## Broken Rules
 
-If any contributor unintentionally breaks a rule of these terms at the expense of another contributor, and the contributor who was wronged [circulates](#circulating-messages) a message about the breach, other contributors can keep their cross licenses from the contributor who was wronged if any one or more of them makes the situation right within fourteen calendar days.  If the contributor did not get an [equal vote](#equal-vote), contributors must retake the vote.  If the contributor did not get [equal pay](#equal-pay), contributors must pay what was owed, and if the payment is thirty days or more late, interest at the base rate for the national bank of the country where the contributor lives, compounded monthly.  If the contributor did not get [equal information](#equal-information), contributors must [circulate](#cirulating-messages) the message again, and if any vote was taken between when the message was not sent and when the contributor finally received it, contributors must retake that vote.
+If any contributor unintentionally breaks a rule of these terms at the expense of another contributor, and the contributor who was wronged [circulates](#circulating-messages) a message about the breach, other contributors can keep their cross licenses from the contributor who was wronged if any one or more of them makes the situation right within fourteen calendar days.  If the contributor did not get an [equal vote](#equal-vote), contributors must retake the vote.  If the contributor did not get [equal information](#equal-information), contributors must [circulate](#cirulating-messages) the message again, and if any vote was taken between when the message was not sent and when the contributor finally received it, contributors must retake that vote.
 
 ## Changes
 

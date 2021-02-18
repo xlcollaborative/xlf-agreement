@@ -6,7 +6,7 @@ Development Draft
 
 ## Purpose
 
-These terms enable contributors working together on a project covered by copyrights or patents to make collective decisions about changing the license terms for their project as a whole.
+These terms enable contributors working together on a project covered by copyrights or patents to make collective decisions about changing the license terms for their project over time.
 
 ## Acceptance
 

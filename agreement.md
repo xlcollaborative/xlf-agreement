@@ -26,6 +26,8 @@ To apply to become a contributor, a candidate must send the following to an exis
 
 3.  a World Wide Web or other Internet address where contributors can review the first contribution they are offering
 
+4.  copies of, or World Wide Web links to, the terms of this agreement and the current statements of [license criteria](#license-criteria) and [communication system](#communication-system)
+
 ### Admission
 
 For a candidate to become a contributor, an existing contributor must follow each of these steps, one after another, in order:
@@ -70,7 +72,7 @@ Any contributor may relicense the project as a whole by granting a sublicense un
 
 ### License Criteria
 
-The first two contributors must agree on any criteria for terms on which the project can be relicensed.  They must publish a dated copy of those criteria, or a dated statement that there are no criteria, together with the terms of this agreement, where potential contributors can find and read them.  No contributor can relicense the project onto new terms that fail to meet the license criteria.  Any contributor may change the license criteria by securing [supermajority approval](#supermajority) in favor of the change.
+The first two contributors must agree on any criteria for terms on which the project can be relicensed.  They must publish a dated statement of those criteria, or a dated statement that there are no criteria, together with the terms of this agreement, where potential contributors can find and read them.  No contributor can relicense the project onto new terms that fail to meet the license criteria.  Any contributor may change the license criteria by securing [supermajority approval](#supermajority) in favor of the change.
 
 ### Example Criteria
 

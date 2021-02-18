@@ -4,4 +4,4 @@ all: agreement.pdf agreement.html
 	pandoc -o $@ -f commonmark $<
 
 %.pdf: %.md
-	pandoc -o $@ -V fontsize=12pt -f commonmark $<
+	pandoc -o $@ -V fontsize=12pt -f commonmark+smart $<

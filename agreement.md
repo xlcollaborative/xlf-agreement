@@ -74,18 +74,6 @@ Any contributor may relicense the project as a whole by granting a sublicense un
 
 The first two contributors must agree on any criteria for terms on which the project can be relicensed.  They must publish a dated statement of those criteria, or a dated statement that there are no criteria, together with the terms of this agreement, where potential contributors can find and read them.  No contributor can relicense the project onto new terms that fail to meet the license criteria.  Any contributor may change the license criteria by securing [supermajority approval](#supermajority) in favor of the change.
 
-### Example Criteria
-
-As examples, the first two contributors may agree on criteria such as:
-
-> The new license terms must grant licenses to the public as a whole, or to anyone who receives a copy of the project.
-
-> The new license must be completely free of any license fee, royalty, or other charge.
-
-> The new license must be a new version of {specific license} published by {license steward} or its legal successor.
-
-> The new license must appear on the {list} published by {organization} or its legal successor.
-
 ## Communications
 
 ### Equal Information

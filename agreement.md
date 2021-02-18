@@ -10,7 +10,7 @@ These terms enable contributors working together on a project covered by copyrig
 
 ## Acceptance
 
-In order to get any license under these terms, you must apply to become a contributor, be accepted, and agree to these terms.  These terms are both strict obligations under an agreement among all contributors and conditions to all the cross licenses they give and receive under that agreement.
+In order to get any license under these terms, you must apply to become a contributor, be accepted, and agree to these terms.  These terms are both obligations under an agreement among all contributors and conditions to all the cross licenses they give and receive under that agreement.
 
 ## Contributors
 

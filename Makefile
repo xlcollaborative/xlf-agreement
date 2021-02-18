@@ -1,7 +1,15 @@
-all: agreement.pdf agreement.html worksheet.pdf worksheet.pdf
+all: build/agreement.pdf build/agreement.html build/worksheet.pdf build/worksheet.html
 
-%.html: %.md
+build/%.html: %.md | build
 	pandoc -o $@ -f commonmark $<
 
-%.pdf: %.md
+build/%.pdf: %.md | build
 	pandoc -o $@ -V fontsize=12pt -f commonmark+smart $<
+
+build:
+	mkdir -p build
+
+.PHONY: clean
+
+clean:
+	rm -rf build

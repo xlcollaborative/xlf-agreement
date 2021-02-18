@@ -4,11 +4,11 @@ Development Draft
 
 <https://xlfoundation.com/>
 
+Last Updated: {date}
+
 ## Instructions
 
 Founders of new cross license foundations should fill out and date this worksheet, then publish it, along with the Cross License Foundation Agreement, where potential contributors can find and read them.
-
-Last Updated: {date}
 
 ## Communication System
 

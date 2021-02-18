@@ -1,4 +1,4 @@
-all: agreement.pdf agreement.html
+all: agreement.pdf agreement.html worksheet.pdf worksheet.pdf
 
 %.html: %.md
 	pandoc -o $@ -f commonmark $<

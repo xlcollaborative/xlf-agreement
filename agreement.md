@@ -1,4 +1,4 @@
-# Distributed Foundation Agreement
+# Cross License Foundation Agreement
 
 Development Draft
 

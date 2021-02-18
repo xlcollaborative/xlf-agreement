@@ -6,6 +6,8 @@ Last Updated: {date}
 
 ## Communication System
 
+What system will contributors use to communicate?  The system must be global, free or low-cost, high-speed, and electronic.  In the vast majority of cases, this should be "e-mail".
+
 ## License Criteria
 
 What criteria must new license terms for the project meet?  For example:

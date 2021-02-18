@@ -56,7 +56,7 @@ Each cross license under these terms covers all contributors, past, present, and
 
 ### Rights
 
-Cross licenses under these terms do not give contributors themselves any special permission for the project, only permission to [relicense](#relicense) the project.
+Cross licenses under these terms do not give contributors themselves any special permission for the project, only permission to [relicense](#relicense).
 
 ### Relicensing
 

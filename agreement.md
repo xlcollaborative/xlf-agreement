@@ -6,7 +6,7 @@ Development Draft
 
 ## Purpose
 
-These terms enable contributors working together on a project covered by copyrights or patents to make collective decisions about licensing their project as a whole.
+These terms enable contributors working together on a project covered by copyrights or patents to make collective decisions about changing the license terms for their project as a whole.
 
 ## Acceptance
 
@@ -34,15 +34,11 @@ For a candidate to become a contributor, an existing contributor must follow eac
 
 2.  secure [majority approval](#majority) in favor of their application
 
-3.  provide the candidate complete copies of all sublicenses still in effect
-
-4.  receive and [circulate](#circulating-messages) a message from the candidate confirming receipt of, and approving, all sublicenses still in effect
-
-5.  [circulate](#circulating-messages) a current list of all contributor [addresses](#addresses), including the new contributor's
+3.  [circulate](#circulating-messages) a current list of all contributor [addresses](#addresses), including the new contributor's
 
 ### Resignation
 
-Any contributor may resign at any time by [circulating](#circulating-messages) a message of resignation.  When a contributor resigns, all cross licenses to that contributor end, but their cross licenses to other contributors, as well as any sublicenses they have given, continue.
+Any contributor may resign at any time by [circulating](#circulating-messages) a message of resignation.  When a contributor resigns, all cross licenses to that contributor end, but their cross licenses to other contributors, as well as any sublicenses they have given for [relicensing](#relicensing), continue.
 
 ## Cross Licenses
 
@@ -60,23 +56,17 @@ Each cross license under these terms covers all contributors, past, present, and
 
 ### Rights
 
-Cross licenses under these terms do not give contributors themselves any special permission for the project, only permission to give sublicenses to others.
+Cross licenses under these terms do not give contributors themselves any special permission for the project, only permission to [relicense](#relicense) the project.
 
-### Sublicensing
+### Relicensing
 
-Any contributor may give a sublicense within thirty calendar days of securing [majority approval](#majority).  When [soliciting votes](#soliciting-votes) for a sublicense, a contributor must [circulate](#circulating-messages):
+Any contributor may relicense the project as a whole by granting a sublicense under new, free-of-charge terms, either to the public or to all recipients of copies of the project, within thirty calendar days of securing [majority approval](#majority).  When [soliciting votes](#soliciting-votes) for relicensing, a contributor must [circulate](#circulating-messages):
 
-1.  identification of the contributor proposing to give the sublicense
+1.  identification of the contributor proposing to relicense the project
 
-2.  an exact copy of all the proposed sublicense terms
+2.  an exact copy of the new license terms
 
-3.  identification of the recipient or recipients of the sublicense
-
-4.  a description of any relationship between those who will receive or benefit from the sublicense and the contributor proposing to give the sublicense
-
-5.  an exact copy of all the terms of any agreement that has, will, or could compensate the contributor proposing to give the sublicense for proposing or securing approval for the sublicense
-
-Contributors may give sublicenses to specific recipients, categories of recipients, or the public as a whole.  Sublicenses may allow sublicensing in turn.  Sublicenses must apply from the time the sublicense is given, or from a time stated in the terms, not retroactively.
+3.  an exact copy of all the terms of any agreement that has, will, or could compensate the contributor for proposing or securing approval of the relicensing
 
 ## Communications
 
@@ -90,7 +80,7 @@ To circulate a message under these terms, a contributor must send the message in
 
 ### Circulating Notices
 
-Any contributor who receives a notice under the terms of a sublicense must [circulate](#circulating-messages) that notice, [retrying](#retrying) as necessary.
+Any contributor who receives a notice under the terms of a relicensing must [circulate](#circulating-messages) that notice, [retrying](#retrying) as necessary.
 
 ### Addresses
 

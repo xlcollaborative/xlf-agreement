@@ -1,8 +1,8 @@
 # Cross License Foundation Founders' Worksheet
 
-Development Draft
+Version 1.0.0-pre.2
 
-<https://xlfoundation.com/>
+<https://xlfoundation.com/worksheet/1.0.0-pre.2>
 
 Last Updated: {date}
 

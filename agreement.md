@@ -1,8 +1,8 @@
 # Cross License Foundation Agreement
 
-Development Draft
+Version 1.0.0-pre.2
 
-<https://xlfoundation.com/>
+<https://xlfoundation.com/agreement/1.0.0-pre.2>
 
 ## Purpose
 
